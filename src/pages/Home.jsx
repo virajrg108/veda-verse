@@ -1,4 +1,6 @@
 import React from 'react';
+import bgCover from '../assets/bg-cover.jpg';
+import sbCover from '../assets/sb-cover.jpg';
 
 const Home = () => {
     return (
@@ -16,33 +18,47 @@ const Home = () => {
             {/* Book Selection Cards */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
                 {/* Card 1: Bhagavad-gita */}
-                <div className="bg-brand-accent rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-brand-primary/10 flex flex-col items-start">
-                    <div className="flex-grow">
-                        <h2 className="text-2xl font-bold text-brand-primary mb-3">
-                            Bhagavad-gita As It Is
-                        </h2>
-                        <p className="text-brand-text mb-6 leading-relaxed">
-                            The eternal message of spiritual wisdom. A conversation between Arjuna and Krishna on the battlefield of Kurukshetra.
-                        </p>
+                <div className="bg-brand-accent rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-brand-primary/10 flex flex-col md:flex-row items-start gap-4">
+                    <img
+                        src={bgCover}
+                        alt="Bhagavad-gita As It Is Cover"
+                        className="w-32 md:w-40 rounded-lg shadow-sm object-cover flex-shrink-0 mx-auto md:mx-0"
+                    />
+                    <div className="flex flex-col h-full items-start">
+                        <div className="flex-grow">
+                            <h2 className="text-2xl font-bold text-brand-primary mb-3">
+                                Bhagavad-gita As It Is
+                            </h2>
+                            <p className="text-brand-text mb-6 leading-relaxed text-sm">
+                                The eternal message of spiritual wisdom. A conversation between Arjuna and Krishna on the battlefield of Kurukshetra.
+                            </p>
+                        </div>
+                        <button className="bg-brand-primary text-white hover:bg-brand-primary/90 transition-colors px-6 py-2 rounded-lg font-semibold shadow-sm w-full md:w-auto mt-auto">
+                            Read Now
+                        </button>
                     </div>
-                    <button className="bg-brand-primary text-white hover:bg-brand-primary/90 transition-colors px-6 py-2 rounded-lg font-semibold shadow-sm w-full md:w-auto">
-                        Read Now
-                    </button>
                 </div>
 
                 {/* Card 2: Srimad-Bhagavatam */}
-                <div className="bg-brand-accent rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-brand-primary/10 flex flex-col items-start">
-                    <div className="flex-grow">
-                        <h2 className="text-2xl font-bold text-brand-primary mb-3">
-                            Srimad-Bhagavatam
-                        </h2>
-                        <p className="text-brand-text mb-6 leading-relaxed">
-                            The spotless Purana dealing with pure devotional service. A comprehensive history of the universe and the science of God.
-                        </p>
+                <div className="bg-brand-accent rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300 border border-brand-primary/10 flex flex-col md:flex-row items-start gap-4">
+                    <img
+                        src={sbCover}
+                        alt="Srimad-Bhagavatam Cover"
+                        className="w-32 md:w-40 rounded-lg shadow-sm object-cover flex-shrink-0 mx-auto md:mx-0"
+                    />
+                    <div className="flex flex-col h-full items-start">
+                        <div className="flex-grow">
+                            <h2 className="text-2xl font-bold text-brand-primary mb-3">
+                                Srimad-Bhagavatam
+                            </h2>
+                            <p className="text-brand-text mb-6 leading-relaxed text-sm">
+                                The spotless Purana dealing with pure devotional service. A comprehensive history of the universe and the science of God.
+                            </p>
+                        </div>
+                        <button className="bg-brand-primary text-white hover:bg-brand-primary/90 transition-colors px-6 py-2 rounded-lg font-semibold shadow-sm w-full md:w-auto mt-auto">
+                            Read Now
+                        </button>
                     </div>
-                    <button className="bg-brand-primary text-white hover:bg-brand-primary/90 transition-colors px-6 py-2 rounded-lg font-semibold shadow-sm w-full md:w-auto">
-                        Read Now
-                    </button>
                 </div>
             </div>
         </div>

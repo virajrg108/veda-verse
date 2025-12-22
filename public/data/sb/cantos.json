@@ -1,0 +1,66 @@
+{
+  "id": "sb_root",
+  "title": "Śrīmad-Bhāgavatam",
+  "cantos": [
+    {
+      "id": "sb_1",
+      "number": 1,
+      "title": "Canto 1: Creation"
+    },
+    {
+      "id": "sb_2",
+      "number": 2,
+      "title": "Canto 2: The Cosmic Manifestation"
+    },
+    {
+      "id": "sb_3",
+      "number": 3,
+      "title": "Canto 3: The Status Quo"
+    },
+    {
+      "id": "sb_4",
+      "number": 4,
+      "title": "Canto 4: The Creation of the Fourth Order"
+    },
+    {
+      "id": "sb_5",
+      "number": 5,
+      "title": "Canto 5: The Creative Impetus"
+    },
+    {
+      "id": "sb_6",
+      "number": 6,
+      "title": "Canto 6: Prescribed Duties for Mankind"
+    },
+    {
+      "id": "sb_7",
+      "number": 7,
+      "title": "Canto 7: The Science of God"
+    },
+    {
+      "id": "sb_8",
+      "number": 8,
+      "title": "Canto 8: Withdrawal of the Cosmic Creations"
+    },
+    {
+      "id": "sb_9",
+      "number": 9,
+      "title": "Canto 9: Liberation"
+    },
+    {
+      "id": "sb_10",
+      "number": 10,
+      "title": "Canto 10: The Summum Bonum"
+    },
+    {
+      "id": "sb_11",
+      "number": 11,
+      "title": "Canto 11: General History"
+    },
+    {
+      "id": "sb_12",
+      "number": 12,
+      "title": "Canto 12: The Age of Deterioration"
+    }
+  ]
+}

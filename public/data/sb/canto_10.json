@@ -1,0 +1,456 @@
+{
+  "id": "sb_10",
+  "title": "Canto 10",
+  "chapters": [
+    {
+      "id": "sb_10_1",
+      "title": "CHAPTER ONE: The Advent of Lord Kṛṣṇa: Introduction",
+      "number": 1
+    },
+    {
+      "id": "sb_10_2",
+      "title": "CHAPTER TWO: Prayers by the Demigods for Lord Kṛṣṇa in the Womb",
+      "number": 2
+    },
+    {
+      "id": "sb_10_3",
+      "title": "CHAPTER THREE: The Birth of Lord Kṛṣṇa",
+      "number": 3
+    },
+    {
+      "id": "sb_10_4",
+      "title": "CHAPTER FOUR: The Atrocities of King Kaṁsa",
+      "number": 4
+    },
+    {
+      "id": "sb_10_5",
+      "title": "CHAPTER FIVE: The Meeting of Nanda Mahārāja and Vasudeva",
+      "number": 5
+    },
+    {
+      "id": "sb_10_6",
+      "title": "CHAPTER SIX: The Killing of the Demon Pūtanā",
+      "number": 6
+    },
+    {
+      "id": "sb_10_7",
+      "title": "CHAPTER SEVEN: The Killing of the Demon Tṛṇāvarta",
+      "number": 7
+    },
+    {
+      "id": "sb_10_8",
+      "title": "CHAPTER EIGHT: Lord Kṛṣṇa Shows the Universal Form Within His Mouth",
+      "number": 8
+    },
+    {
+      "id": "sb_10_9",
+      "title": "CHAPTER NINE: Mother Yaśodā Binds Lord Kṛṣṇa",
+      "number": 9
+    },
+    {
+      "id": "sb_10_10",
+      "title": "CHAPTER TEN: The Deliverance of the Yamala-arjuna Trees",
+      "number": 10
+    },
+    {
+      "id": "sb_10_11",
+      "title": "CHAPTER ELEVEN: The Childhood Pastimes of Kṛṣṇa",
+      "number": 11
+    },
+    {
+      "id": "sb_10_12",
+      "title": "CHAPTER TWELVE: The Killing of the Demon Aghāsura",
+      "number": 12
+    },
+    {
+      "id": "sb_10_13",
+      "title": "CHAPTER THIRTEEN: The Stealing of the Boys and Calves by Brahmā",
+      "number": 13
+    },
+    {
+      "id": "sb_10_14",
+      "title": "CHAPTER FOURTEEN: Brahmā’s Prayers to Lord Kṛṣṇa",
+      "number": 14
+    },
+    {
+      "id": "sb_10_15",
+      "title": "CHAPTER FIFTEEN: The Killing of Dhenuka, the Ass Demon",
+      "number": 15
+    },
+    {
+      "id": "sb_10_16",
+      "title": "CHAPTER SIXTEEN: Kṛṣṇa Chastises the Serpent Kāliya",
+      "number": 16
+    },
+    {
+      "id": "sb_10_17",
+      "title": "CHAPTER SEVENTEEN: The History of Kāliya",
+      "number": 17
+    },
+    {
+      "id": "sb_10_18",
+      "title": "CHAPTER EIGHTEEN: Lord Balarāma Slays the Demon Pralamba",
+      "number": 18
+    },
+    {
+      "id": "sb_10_19",
+      "title": "CHAPTER NINETEEN: Swallowing the Forest Fire",
+      "number": 19
+    },
+    {
+      "id": "sb_10_20",
+      "title": "CHAPTER TWENTY: The Rainy Season and Autumn in Vṛndāvana",
+      "number": 20
+    },
+    {
+      "id": "sb_10_21",
+      "title": "CHAPTER TWENTY-ONE: The Gopīs Glorify the Song of Kṛṣṇa’s Flute",
+      "number": 21
+    },
+    {
+      "id": "sb_10_22",
+      "title": "CHAPTER TWENTY-TWO: Kṛṣṇa Steals the Garments of the Unmarried Gopīs",
+      "number": 22
+    },
+    {
+      "id": "sb_10_23",
+      "title": "CHAPTER TWENTY-THREE: The Brāhmaṇas’ Wives Blessed",
+      "number": 23
+    },
+    {
+      "id": "sb_10_24",
+      "title": "CHAPTER TWENTY-FOUR: Worshiping Govardhana Hill",
+      "number": 24
+    },
+    {
+      "id": "sb_10_25",
+      "title": "CHAPTER TWENTY-FIVE: Lord Kṛṣṇa Lifts Govardhana Hill",
+      "number": 25
+    },
+    {
+      "id": "sb_10_26",
+      "title": "CHAPTER TWENTY-SIX: Wonderful Kṛṣṇa",
+      "number": 26
+    },
+    {
+      "id": "sb_10_27",
+      "title": "CHAPTER TWENTY-SEVEN: Lord Indra and Mother Surabhi Offer Prayers",
+      "number": 27
+    },
+    {
+      "id": "sb_10_28",
+      "title": "CHAPTER TWENTY-EIGHT: Kṛṣṇa Rescues Nanda Mahārāja from the Abode of Varuṇa",
+      "number": 28
+    },
+    {
+      "id": "sb_10_29",
+      "title": "CHAPTER TWENTY-NINE: Kṛṣṇa and the Gopīs Meet for the Rāsa Dance",
+      "number": 29
+    },
+    {
+      "id": "sb_10_30",
+      "title": "CHAPTER THIRTY: The Gopīs Search for Kṛṣṇa",
+      "number": 30
+    },
+    {
+      "id": "sb_10_31",
+      "title": "CHAPTER THIRTY-ONE: The Gopīs’ Songs of Separation",
+      "number": 31
+    },
+    {
+      "id": "sb_10_32",
+      "title": "CHAPTER THIRTY-TWO: The Reunion",
+      "number": 32
+    },
+    {
+      "id": "sb_10_33",
+      "title": "CHAPTER THIRTY-THREE: The Rāsa Dance",
+      "number": 33
+    },
+    {
+      "id": "sb_10_34",
+      "title": "CHAPTER THIRTY-FOUR: Nanda Mahārāja Saved and Śaṅkhacūḍa Slain",
+      "number": 34
+    },
+    {
+      "id": "sb_10_35",
+      "title": "CHAPTER THIRTY-FIVE: The Gopīs Sing of Kṛṣṇa as He Wanders in the Forest",
+      "number": 35
+    },
+    {
+      "id": "sb_10_36",
+      "title": "CHAPTER THIRTY-SIX: The Slaying of Ariṣṭā, the Bull Demon",
+      "number": 36
+    },
+    {
+      "id": "sb_10_37",
+      "title": "CHAPTER THIRTY-SEVEN: The Killing of the Demons Keśi and Vyoma",
+      "number": 37
+    },
+    {
+      "id": "sb_10_38",
+      "title": "CHAPTER THIRTY-EIGHT: Akrūra’s Arrival in Vṛndāvana",
+      "number": 38
+    },
+    {
+      "id": "sb_10_39",
+      "title": "CHAPTER THIRTY-NINE: Akrūra’s Vision",
+      "number": 39
+    },
+    {
+      "id": "sb_10_40",
+      "title": "CHAPTER FORTY: The Prayers of Akrūra",
+      "number": 40
+    },
+    {
+      "id": "sb_10_41",
+      "title": "CHAPTER FORTY-ONE: Kṛṣṇa and Balarāma Enter Mathurā",
+      "number": 41
+    },
+    {
+      "id": "sb_10_42",
+      "title": "CHAPTER FORTY-TWO: The Breaking of the Sacrificial Bow",
+      "number": 42
+    },
+    {
+      "id": "sb_10_43",
+      "title": "CHAPTER FORTY-THREE: Kṛṣṇa Kills the Elephant Kuvalayāpīḍa",
+      "number": 43
+    },
+    {
+      "id": "sb_10_44",
+      "title": "CHAPTER FORTY-FOUR: The Killing of Kaṁsa",
+      "number": 44
+    },
+    {
+      "id": "sb_10_45",
+      "title": "CHAPTER FORTY-FIVE: Kṛṣṇa Rescues His Teacher’s Son",
+      "number": 45
+    },
+    {
+      "id": "sb_10_46",
+      "title": "CHAPTER FORTY-SIX: Uddhava Visits Vṛndāvana",
+      "number": 46
+    },
+    {
+      "id": "sb_10_47",
+      "title": "CHAPTER FORTY-SEVEN: The Song of the Bee",
+      "number": 47
+    },
+    {
+      "id": "sb_10_48",
+      "title": "CHAPTER FORTY-EIGHT: Kṛṣṇa Pleases His Devotees",
+      "number": 48
+    },
+    {
+      "id": "sb_10_49",
+      "title": "CHAPTER FORTY-NINE: Akrūra’s Mission in Hastināpura",
+      "number": 49
+    },
+    {
+      "id": "sb_10_50",
+      "title": "CHAPTER FIFTY: Kṛṣṇa Establishes the City of Dvārakā",
+      "number": 50
+    },
+    {
+      "id": "sb_10_51",
+      "title": "CHAPTER FIFTY-ONE: The Deliverance of Mucukunda",
+      "number": 51
+    },
+    {
+      "id": "sb_10_52",
+      "title": "CHAPTER FIFTY-TWO: Rukmiṇī’s Message to Lord Kṛṣṇa",
+      "number": 52
+    },
+    {
+      "id": "sb_10_53",
+      "title": "CHAPTER FIFTY-THREE: Kṛṣṇa Kidnaps Rukmiṇī",
+      "number": 53
+    },
+    {
+      "id": "sb_10_54",
+      "title": "CHAPTER FIFTY-FOUR: The Marriage of Kṛṣṇa and Rukmiṇī",
+      "number": 54
+    },
+    {
+      "id": "sb_10_55",
+      "title": "CHAPTER FIFTY-FIVE: The History of Pradyumna",
+      "number": 55
+    },
+    {
+      "id": "sb_10_56",
+      "title": "CHAPTER FIFTY-SIX: The Syamantaka Jewel",
+      "number": 56
+    },
+    {
+      "id": "sb_10_57",
+      "title": "CHAPTER FIFTY-SEVEN: Satrājit Murdered, the Jewel Returned",
+      "number": 57
+    },
+    {
+      "id": "sb_10_58",
+      "title": "CHAPTER FIFTY-EIGHT: Kṛṣṇa Marries Five Princesses",
+      "number": 58
+    },
+    {
+      "id": "sb_10_59",
+      "title": "CHAPTER FIFTY-NINE: The Killing of the Demon Naraka",
+      "number": 59
+    },
+    {
+      "id": "sb_10_60",
+      "title": "CHAPTER SIXTY: Lord Kṛṣṇa Teases Queen Rukmiṇī.",
+      "number": 60
+    },
+    {
+      "id": "sb_10_61",
+      "title": "CHAPTER SIXTY-ONE: Lord Balarāma Slays Rukmī",
+      "number": 61
+    },
+    {
+      "id": "sb_10_62",
+      "title": "CHAPTER SIXTY-TWO: The Meeting of Ūṣā and Aniruddha",
+      "number": 62
+    },
+    {
+      "id": "sb_10_63",
+      "title": "CHAPTER SIXTY-THREE: Lord Kṛṣṇa Fights with Bāṇāsura",
+      "number": 63
+    },
+    {
+      "id": "sb_10_64",
+      "title": "CHAPTER SIXTY-FOUR: The Deliverance of King Nṛga",
+      "number": 64
+    },
+    {
+      "id": "sb_10_65",
+      "title": "CHAPTER SIXTY-FIVE: Lord Balarāma Visits Vṛndāvana",
+      "number": 65
+    },
+    {
+      "id": "sb_10_66",
+      "title": "CHAPTER SIXTY-SIX: Pauṇḍraka, the False Vāsudeva",
+      "number": 66
+    },
+    {
+      "id": "sb_10_67",
+      "title": "CHAPTER SIXTY-SEVEN: Lord Balarāma Slays Dvivida Gorilla",
+      "number": 67
+    },
+    {
+      "id": "sb_10_68",
+      "title": "CHAPTER SIXTY-EIGHT: The Marriage of Sāmba",
+      "number": 68
+    },
+    {
+      "id": "sb_10_69",
+      "title": "CHAPTER SIXTY-NINE: Nārada Muni Visits Lord Kṛṣṇa’s Palaces in Dvārakā",
+      "number": 69
+    },
+    {
+      "id": "sb_10_70",
+      "title": "CHAPTER SEVENTY: Lord Kṛṣṇa’s Daily Activities",
+      "number": 70
+    },
+    {
+      "id": "sb_10_71",
+      "title": "CHAPTER SEVENTY-ONE: The Lord Travels to Indraprastha",
+      "number": 71
+    },
+    {
+      "id": "sb_10_72",
+      "title": "CHAPTER SEVENTY-TWO: The Slaying of the Demon Jarāsandha",
+      "number": 72
+    },
+    {
+      "id": "sb_10_73",
+      "title": "CHAPTER SEVENTY-THREE: Lord Kṛṣṇa Blesses the Liberated Kings",
+      "number": 73
+    },
+    {
+      "id": "sb_10_74",
+      "title": "CHAPTER SEVENTY-FOUR: The Deliverance of Śiśupāla at the Rājasūya Sacrifice",
+      "number": 74
+    },
+    {
+      "id": "sb_10_75",
+      "title": "CHAPTER SEVENTY-FIVE: Duryodhana Humiliated",
+      "number": 75
+    },
+    {
+      "id": "sb_10_76",
+      "title": "CHAPTER SEVENTY-SIX: The Battle Between Śālva and the Vṛṣṇis",
+      "number": 76
+    },
+    {
+      "id": "sb_10_77",
+      "title": "CHAPTER SEVENTY-SEVEN: Lord Kṛṣṇa Slays the Demon Śālva",
+      "number": 77
+    },
+    {
+      "id": "sb_10_78",
+      "title": "CHAPTER SEVENTY-EIGHT: The Killing of Dantavakra, Vidūratha and Romaharṣaṇa",
+      "number": 78
+    },
+    {
+      "id": "sb_10_79",
+      "title": "CHAPTER SEVENTY-NINE: Lord Balarāma Goes on Pilgrimage",
+      "number": 79
+    },
+    {
+      "id": "sb_10_80",
+      "title": "CHAPTER EIGHTY: The Brāhmaṇa Sudāmā Visits Lord Kṛṣṇa in Dvārakā",
+      "number": 80
+    },
+    {
+      "id": "sb_10_81",
+      "title": "CHAPTER EIGHTY-ONE: The Lord Blesses Sudāmā Brāhmaṇa",
+      "number": 81
+    },
+    {
+      "id": "sb_10_82",
+      "title": "CHAPTER EIGHTY-TWO: Kṛṣṇa and Balarāma Meet the Inhabitants of Vṛndāvana",
+      "number": 82
+    },
+    {
+      "id": "sb_10_83",
+      "title": "CHAPTER EIGHTY-THREE: Draupadī Meets the Queens of Kṛṣṇa",
+      "number": 83
+    },
+    {
+      "id": "sb_10_84",
+      "title": "CHAPTER EIGHTY-FOUR: The Sages’ Teachings at Kurukṣetra",
+      "number": 84
+    },
+    {
+      "id": "sb_10_85",
+      "title": "CHAPTER EIGHTY-FIVE: Lord Kṛṣṇa Instructs Vasudeva and Retrieves Devakī’s Sons",
+      "number": 85
+    },
+    {
+      "id": "sb_10_86",
+      "title": "CHAPTER EIGHTY-SIX: Arjuna Kidnaps Subhadrā, and Kṛṣṇa Blesses His Devotees",
+      "number": 86
+    },
+    {
+      "id": "sb_10_87",
+      "title": "CHAPTER EIGHTY-SEVEN: The Prayers of the Personified Vedas",
+      "number": 87
+    },
+    {
+      "id": "sb_10_88",
+      "title": "CHAPTER EIGHTY-EIGHT: Lord Śiva Saved from Vṛkāsura",
+      "number": 88
+    },
+    {
+      "id": "sb_10_89",
+      "title": "CHAPTER EIGHTY-NINE: Kṛṣṇa and Arjuna Retrieve a Brāhmaṇa’s Sons",
+      "number": 89
+    },
+    {
+      "id": "sb_10_90",
+      "title": "CHAPTER NINETY: Summary of Lord Kṛṣṇa’s Glories",
+      "number": 90
+    }
+  ]
+}
