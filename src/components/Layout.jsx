@@ -5,7 +5,7 @@ const Layout = () => {
     return (
         <div className="min-h-screen flex flex-col bg-brand-bg text-brand-text font-sans">
             {/* Header */}
-            <header className="sticky top-0 z-50 bg-brand-accent/90 backdrop-blur-sm border-b border-brand-primary/20 shadow-sm">
+            <header className="sticky top-0 z-50 bg-brand-accent/100 backdrop-blur-sm border-b border-brand-primary/20 shadow-sm">
                 <div className="container mx-auto px-4 py-4 flex justify-between items-center">
                     <div className="text-2xl font-bold text-brand-primary tracking-tight">
                         VedaVerse

@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
+import CantoAccordion from '../../components/CantoAccordion';
 
 const CantoList = () => {
     const [cantos, setCantos] = useState([]);
     const [loading, setLoading] = useState(true);
+    const [openCantoId, setOpenCantoId] = useState(null);
 
     useEffect(() => {
         fetch('/data/sb/cantos.json')
@@ -18,21 +19,27 @@ const CantoList = () => {
             });
     }, []);
 
+    const handleToggle = (id) => {
+        setOpenCantoId(prev => (prev === id ? null : id));
+    };
+
     if (loading) return <div className="text-center py-10 text-brand-text">Loading Cantos...</div>;
 
     return (
-        <div className="max-w-4xl mx-auto py-8">
-            <h1 className="text-3xl font-bold text-brand-primary mb-8 text-center">Srimad-Bhagavatam</h1>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div className="max-w-3xl mx-auto py-8 px-4">
+            <div className="text-center mb-10">
+                <h1 className="text-4xl font-serif font-bold text-brand-primary mb-2">Srimad-Bhagavatam</h1>
+                <p className="text-brand-text/80 italic">The Beautiful Story of the Personality of Godhead</p>
+            </div>
+
+            <div className="space-y-4">
                 {cantos.map(canto => (
-                    <Link
+                    <CantoAccordion
                         key={canto.id}
-                        to={`/sb/${canto.number}`}
-                        className="block bg-brand-accent p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow border border-brand-primary/10"
-                    >
-                        <h2 className="text-xl font-semibold text-brand-primary mb-2">Canto {canto.number}</h2>
-                        <p className="text-brand-text opacity-90">{canto.title}</p>
-                    </Link>
+                        canto={canto}
+                        isOpen={openCantoId === canto.id}
+                        onToggle={() => handleToggle(canto.id)}
+                    />
                 ))}
             </div>
         </div>
