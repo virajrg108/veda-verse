@@ -22,7 +22,7 @@ const Layout = () => {
             </header>
 
             {/* Main Content */}
-            <main className="flex-grow container mx-auto px-4 py-8">
+            <main className="flex-grow container mx-auto px-2 py-8">
                 <Outlet />
             </main>
 

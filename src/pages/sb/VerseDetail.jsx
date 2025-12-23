@@ -40,7 +40,7 @@ const VerseDetail = () => {
             </div>
 
             {/* Main Content */}
-            <div className="bg-white/50 rounded-xl p-8 shadow-sm border border-brand-primary/10">
+            <div className="bg-white/50 rounded-xl py-8 px-2 shadow-sm border border-brand-primary/10">
                 <h1 className="text-3xl font-bold text-brand-primary mb-8 text-center">{verseData.title}</h1>
 
                 {/* Sanskrit */}
