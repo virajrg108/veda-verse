@@ -64,7 +64,7 @@ const VerseDetail = () => {
                 {/* Synonyms */}
                 <div className="mb-8 bg-brand-accent/30 p-4 rounded-lg">
                     <h3 className="text-sm font-bold text-brand-secondary uppercase tracking-wider mb-2">Synonyms</h3>
-                    <p className="text-brand-text text-sm leading-relaxed">
+                    <p className="text-brand-text text-lg leading-relaxed">
                         {verseData.word_to_word}
                     </p>
                 </div>
@@ -81,7 +81,7 @@ const VerseDetail = () => {
                 <div className="prose prose-stone max-w-none">
                     <h3 className="text-sm font-bold text-brand-secondary uppercase tracking-wider mb-4">Purport</h3>
                     {verseData.purport.map((para, i) => (
-                        <p key={i} className="text-brand-text leading-relaxed mb-4 text-justify">
+                        <p key={i} className="text-brand-text text-lg leading-relaxed mb-4 text-justify">
                             {para}
                         </p>
                     ))}

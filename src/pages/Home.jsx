@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import bgCover from '../assets/bg-cover.jpg';
 import sbCover from '../assets/sb-cover.jpg';
 
@@ -55,9 +56,9 @@ const Home = () => {
                                 The spotless Purana dealing with pure devotional service. A comprehensive history of the universe and the science of God.
                             </p>
                         </div>
-                        <button className="bg-brand-primary text-white hover:bg-brand-primary/90 transition-colors px-6 py-2 rounded-lg font-semibold shadow-sm w-full md:w-auto mt-auto">
+                        <Link to="/sb" className="bg-brand-primary text-white hover:bg-brand-primary/90 transition-colors px-6 py-2 rounded-lg font-semibold shadow-sm w-full md:w-auto mt-auto text-center inline-block">
                             Read Now
-                        </button>
+                        </Link>
                     </div>
                 </div>
             </div>
